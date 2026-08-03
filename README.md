@@ -9,13 +9,17 @@ CSE student | Backend Developer in progress  <br><br>Java • SQL • Databases 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Adinath047&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Adinath047&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adinath047&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adinath047&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<h3> 📊 GitHub Stats </h3>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashlohare&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Adinath's GitHub Stats" />
+  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashlohare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
